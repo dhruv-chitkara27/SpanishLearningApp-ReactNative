@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "LearnSpanish",
+    "slug": "Learn-Spanish",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "android": {
+      "package": "dhruvchitkara27.LearnSpanish"
+    },
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
